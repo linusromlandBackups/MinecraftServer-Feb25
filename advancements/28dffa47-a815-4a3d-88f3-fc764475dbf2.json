@@ -1709,18 +1709,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:sheep": "2025-02-22 19:35:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-02-22 19:35:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-22 19:35:21 +0000"
@@ -1732,6 +1720,18 @@
       "has_wheat": "2025-02-22 19:35:21 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-22 19:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-02-22 19:35:32 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
