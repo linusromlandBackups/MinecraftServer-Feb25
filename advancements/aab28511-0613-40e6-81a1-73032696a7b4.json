@@ -1576,12 +1576,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-02-23 09:31:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-02-23 09:17:21 +0000"
@@ -1593,6 +1587,12 @@
       "has_pumpkin": "2025-02-23 09:17:21 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-02-23 09:31:22 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
