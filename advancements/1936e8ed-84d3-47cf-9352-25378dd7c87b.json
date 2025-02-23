@@ -2126,5 +2126,17 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-23 10:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-23 10:42:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
