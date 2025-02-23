@@ -2530,5 +2530,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_copper_door": "2025-02-23 15:18:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
