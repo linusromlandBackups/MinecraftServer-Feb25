@@ -634,9 +634,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-23 12:13:16 +0000",
+      "apple": "2025-02-23 18:41:59 +0000",
       "bread": "2025-02-21 19:30:08 +0000",
       "cooked_mutton": "2025-02-21 19:09:53 +0000",
       "cooked_beef": "2025-02-21 19:20:36 +0000",
+      "melon_slice": "2025-02-23 18:42:05 +0000",
       "cooked_salmon": "2025-02-21 19:16:54 +0000"
     },
     "done": false
@@ -931,6 +933,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-23 18:43:56 +0000",
       "minecraft:skeleton": "2025-02-22 17:29:25 +0000",
       "minecraft:enderman": "2025-02-21 19:37:25 +0000",
       "minecraft:magma_cube": "2025-02-23 18:03:00 +0000",
@@ -2546,6 +2549,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-23 18:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-23 18:43:56 +0000"
     },
     "done": true
   },
