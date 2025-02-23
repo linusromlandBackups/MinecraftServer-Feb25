@@ -1179,18 +1179,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-23 16:54:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-02-23 16:54:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-23 16:54:37 +0000"
@@ -1200,18 +1188,6 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-02-23 16:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-23 16:54:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-02-23 16:54:45 +0000"
     },
     "done": true
   },
@@ -1230,6 +1206,48 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-23 16:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-23 16:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-23 16:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-23 16:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 16:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-23 16:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 16:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 16:54:45 +0000"
     },
     "done": true
   },
@@ -1257,21 +1275,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-02-23 16:54:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 16:54:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-23 16:54:37 +0000"
     },
     "done": true
   },
@@ -1281,9 +1287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_planks": "2025-02-23 16:54:37 +0000"
+      "has_water_bucket": "2025-02-23 17:18:58 +0000"
     },
     "done": true
   },
