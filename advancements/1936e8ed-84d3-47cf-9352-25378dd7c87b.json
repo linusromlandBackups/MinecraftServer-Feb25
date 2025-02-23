@@ -15,6 +15,7 @@
       "minecraft:taiga": "2025-02-22 18:24:29 +0000",
       "minecraft:river": "2025-02-21 19:10:16 +0000",
       "minecraft:birch_forest": "2025-02-22 18:15:04 +0000",
+      "minecraft:lush_caves": "2025-02-23 15:59:35 +0000",
       "minecraft:savanna": "2025-02-21 19:01:55 +0000",
       "minecraft:windswept_savanna": "2025-02-21 19:39:30 +0000",
       "minecraft:plains": "2025-02-21 19:11:00 +0000"
@@ -2580,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-23 15:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-02-23 15:50:15 +0000"
@@ -2604,9 +2611,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-23 15:59:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-23 15:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-23 15:59:31 +0000"
     },
     "done": true
   },
