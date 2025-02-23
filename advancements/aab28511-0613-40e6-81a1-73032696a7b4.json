@@ -1908,5 +1908,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 14:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 14:50:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
