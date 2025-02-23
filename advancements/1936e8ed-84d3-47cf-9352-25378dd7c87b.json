@@ -14,6 +14,7 @@
       "minecraft:taiga": "2025-02-22 18:24:29 +0000",
       "minecraft:river": "2025-02-21 19:10:16 +0000",
       "minecraft:lush_caves": "2025-02-23 15:59:35 +0000",
+      "minecraft:dripstone_caves": "2025-02-23 19:22:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 18:15:18 +0000",
       "minecraft:ocean": "2025-02-23 17:18:30 +0000",
       "minecraft:birch_forest": "2025-02-22 18:15:04 +0000",
@@ -2152,7 +2153,8 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:woods": "2025-02-23 10:47:47 +0000"
+      "minecraft:woods": "2025-02-23 10:47:47 +0000",
+      "minecraft:pale": "2025-02-23 19:15:19 +0000"
     },
     "done": false
   },
@@ -2939,6 +2941,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-23 19:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-23 19:24:10 +0000"
     },
     "done": true
   },
