@@ -623,7 +623,8 @@
       "minecraft:enderman": "2025-02-21 19:13:50 +0000",
       "minecraft:spider": "2025-02-22 18:31:33 +0000",
       "minecraft:zombie": "2025-02-22 18:12:23 +0000",
-      "minecraft:creeper": "2025-02-22 18:19:50 +0000"
+      "minecraft:creeper": "2025-02-22 18:19:50 +0000",
+      "minecraft:drowned": "2025-02-23 11:10:55 +0000"
     },
     "done": false
   },
@@ -2151,6 +2152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-23 11:25:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 10:59:47 +0000"
@@ -2160,6 +2167,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-23 10:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-23 11:25:46 +0000"
     },
     "done": true
   },
@@ -2180,6 +2193,18 @@
       "minecraft:woods": "2025-02-23 10:47:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-23 11:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-23 11:25:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
@@ -2241,9 +2266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-23 11:25:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-23 10:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-23 11:25:46 +0000"
     },
     "done": true
   },
@@ -2280,6 +2317,18 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 10:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-23 11:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-02-23 11:25:46 +0000"
     },
     "done": true
   },
