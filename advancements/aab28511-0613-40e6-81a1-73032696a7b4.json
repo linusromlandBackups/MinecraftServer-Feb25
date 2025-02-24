@@ -2251,5 +2251,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-24 16:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-02-24 16:54:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
