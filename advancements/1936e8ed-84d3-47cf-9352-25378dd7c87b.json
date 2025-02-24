@@ -623,6 +623,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-24 19:38:06 +0000",
       "minecraft:skeleton": "2025-02-21 19:16:56 +0000",
       "minecraft:enderman": "2025-02-21 19:13:50 +0000",
       "minecraft:witch": "2025-02-23 15:58:39 +0000",
@@ -3121,6 +3122,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-02-24 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-24 19:38:06 +0000"
     },
     "done": true
   },
