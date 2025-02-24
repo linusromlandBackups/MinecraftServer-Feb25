@@ -2251,33 +2251,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_kelp": "2025-02-24 17:03:34 +0000"
+      "has_clay_ball": "2025-02-24 16:54:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "minecraft:recipes/food/dried_kelp": {
     "criteria": {
-      "has_kelp": "2025-02-24 17:03:34 +0000"
+      "has_dried_kelp_block": "2025-02-24 16:54:20 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-24 17:00:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-02-24 17:19:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-24 17:03:34 +0000"
     },
     "done": true
   },
@@ -2305,12 +2293,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-02-24 16:54:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-24 17:00:42 +0000"
@@ -2329,15 +2311,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-02-24 16:54:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-24 17:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-24 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 17:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-24 17:19:55 +0000"
     },
     "done": true
   },
