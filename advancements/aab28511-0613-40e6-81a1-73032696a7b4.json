@@ -485,7 +485,8 @@
       "cooked_porkchop": "2025-02-21 19:38:42 +0000",
       "apple": "2025-02-23 19:14:24 +0000",
       "bread": "2025-02-21 19:16:40 +0000",
-      "salmon": "2025-02-21 19:14:14 +0000"
+      "salmon": "2025-02-21 19:14:14 +0000",
+      "cooked_salmon": "2025-02-24 18:21:55 +0000"
     },
     "done": false
   },
@@ -2338,6 +2339,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-02-24 17:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-02-24 18:24:57 +0000"
     },
     "done": true
   },
