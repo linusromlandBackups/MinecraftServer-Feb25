@@ -3071,12 +3071,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-02-24 19:05:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-02-24 18:50:16 +0000"
@@ -3086,12 +3080,6 @@
   "minecraft:recipes/redstone/oxidized_copper_bulb": {
     "criteria": {
       "has_oxidized_copper": "2025-02-24 18:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-02-24 19:12:39 +0000"
     },
     "done": true
   },
@@ -3113,21 +3101,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-24 19:05:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-02-24 18:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-24 19:38:06 +0000"
     },
     "done": true
   },
@@ -3146,6 +3122,30 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-02-24 18:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-24 19:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 19:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-24 19:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-24 19:38:06 +0000"
     },
     "done": true
   },
