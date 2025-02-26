@@ -632,7 +632,8 @@
       "minecraft:spider": "2025-02-22 18:31:33 +0000",
       "minecraft:zombie": "2025-02-22 18:12:23 +0000",
       "minecraft:creeper": "2025-02-22 18:19:50 +0000",
-      "minecraft:drowned": "2025-02-23 11:10:55 +0000"
+      "minecraft:drowned": "2025-02-23 11:10:55 +0000",
+      "minecraft:zombie_villager": "2025-02-26 19:42:43 +0000"
     },
     "done": false
   },
