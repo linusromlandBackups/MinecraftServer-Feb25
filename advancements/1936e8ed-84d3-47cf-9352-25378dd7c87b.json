@@ -633,7 +633,8 @@
       "minecraft:zombie": "2025-02-22 18:12:23 +0000",
       "minecraft:creeper": "2025-02-22 18:19:50 +0000",
       "minecraft:drowned": "2025-02-23 11:10:55 +0000",
-      "minecraft:zombie_villager": "2025-02-26 19:42:43 +0000"
+      "minecraft:zombie_villager": "2025-02-26 19:42:43 +0000",
+      "minecraft:ghast": "2025-02-26 19:57:31 +0000"
     },
     "done": false
   },
@@ -3276,6 +3277,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-26 19:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-26 19:57:31 +0000"
     },
     "done": true
   },
