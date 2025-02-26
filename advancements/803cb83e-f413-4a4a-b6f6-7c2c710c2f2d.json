@@ -763,6 +763,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-23 15:35:13 +0000",
+      "minecraft:enderman": "2025-02-26 18:37:42 +0000",
       "minecraft:spider": "2025-02-23 15:24:49 +0000",
       "minecraft:zombie": "2025-02-24 17:10:09 +0000",
       "minecraft:drowned": "2025-02-23 12:08:09 +0000"
@@ -1522,6 +1523,18 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-02-25 18:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-26 18:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-26 18:35:53 +0000"
     },
     "done": true
   },
