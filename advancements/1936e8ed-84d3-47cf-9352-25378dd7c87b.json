@@ -624,6 +624,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-24 19:38:06 +0000",
+      "minecraft:cave_spider": "2025-02-26 17:48:51 +0000",
       "minecraft:skeleton": "2025-02-21 19:16:56 +0000",
       "minecraft:enderman": "2025-02-21 19:13:50 +0000",
       "minecraft:witch": "2025-02-23 15:58:39 +0000",
@@ -2155,7 +2156,8 @@
   "minecraft:husbandry/whole_pack": {
     "criteria": {
       "minecraft:woods": "2025-02-23 10:47:47 +0000",
-      "minecraft:pale": "2025-02-23 19:15:19 +0000"
+      "minecraft:pale": "2025-02-23 19:15:19 +0000",
+      "minecraft:black": "2025-02-26 17:52:52 +0000"
     },
     "done": false
   },
@@ -3212,6 +3214,54 @@
   "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_honeycomb": {
     "criteria": {
       "has_chiseled_copper": "2025-02-26 17:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-02-26 17:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-26 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-26 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-26 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-26 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-26 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-26 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-02-26 17:48:14 +0000"
     },
     "done": true
   },
