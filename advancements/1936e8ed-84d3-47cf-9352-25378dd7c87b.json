@@ -3282,9 +3282,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "has_basalt": "2025-02-26 19:58:48 +0000"
+      "killed_ghast": "2025-02-26 19:57:31 +0000"
     },
     "done": true
   },
@@ -3342,18 +3342,6 @@
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-02-26 19:57:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-02-26 19:58:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-26 19:58:38 +0000"
@@ -3384,12 +3372,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-02-26 19:58:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-26 19:58:38 +0000"
@@ -3399,6 +3381,24 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-26 19:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-26 19:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-02-26 19:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-02-26 19:58:48 +0000"
     },
     "done": true
   },
