@@ -1890,9 +1890,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_salmon": "2025-02-28 14:31:52 +0000"
+      "entered_nether": "2025-02-28 13:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-28 13:30:04 +0000"
     },
     "done": true
   },
@@ -1902,21 +1908,15 @@
     },
     "done": false
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "entered_nether": "2025-02-28 13:30:04 +0000"
+      "has_salmon": "2025-02-28 14:31:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-28 14:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-28 13:30:04 +0000"
     },
     "done": true
   },
