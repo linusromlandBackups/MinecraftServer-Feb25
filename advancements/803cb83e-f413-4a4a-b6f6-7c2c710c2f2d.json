@@ -530,7 +530,8 @@
       "apple": "2025-02-24 17:36:35 +0000",
       "bread": "2025-02-22 17:43:28 +0000",
       "cooked_mutton": "2025-02-23 16:50:38 +0000",
-      "mushroom_stew": "2025-02-28 14:15:11 +0000"
+      "mushroom_stew": "2025-02-28 14:15:11 +0000",
+      "salmon": "2025-02-28 14:33:15 +0000"
     },
     "done": false
   },
@@ -1889,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-28 14:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-02-28 13:30:05 +0000"
@@ -1901,9 +1908,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-28 14:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-28 13:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-28 14:31:52 +0000"
     },
     "done": true
   },
