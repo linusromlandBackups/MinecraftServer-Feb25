@@ -11,6 +11,7 @@
       "minecraft:savanna_plateau": "2025-02-22 18:26:43 +0000",
       "minecraft:beach": "2025-02-21 19:07:58 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-24 18:38:11 +0000",
+      "minecraft:dark_forest": "2025-02-28 19:09:43 +0000",
       "minecraft:forest": "2025-02-21 19:14:46 +0000",
       "minecraft:taiga": "2025-02-23 10:12:29 +0000",
       "minecraft:sparse_jungle": "2025-02-23 10:02:57 +0000",
@@ -2735,6 +2736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-28 15:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_chiseled_copper": {
     "criteria": {
       "has_oxidized_cut_copper_slab": "2025-02-28 15:29:22 +0000"
@@ -2744,12 +2751,6 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper_slab": "2025-02-28 15:29:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-28 15:22:31 +0000"
     },
     "done": true
   },
