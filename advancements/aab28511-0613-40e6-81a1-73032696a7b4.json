@@ -634,6 +634,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-03-01 16:08:42 +0000",
       "minecraft:skeleton": "2025-02-21 19:21:38 +0000",
       "minecraft:spider": "2025-02-21 19:22:31 +0000",
       "minecraft:zombie": "2025-02-21 19:37:56 +0000",
@@ -2818,6 +2819,12 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-02-28 20:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-03-01 16:08:14 +0000"
     },
     "done": true
   },
