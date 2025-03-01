@@ -488,6 +488,7 @@
       "cooked_porkchop": "2025-02-21 19:38:42 +0000",
       "apple": "2025-02-23 19:14:24 +0000",
       "bread": "2025-02-21 19:16:40 +0000",
+      "golden_apple": "2025-03-01 16:39:40 +0000",
       "salmon": "2025-02-21 19:14:14 +0000",
       "cooked_beef": "2025-02-24 18:44:23 +0000",
       "cooked_salmon": "2025-02-24 18:21:55 +0000"
@@ -2898,6 +2899,18 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-03-01 16:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-01 16:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-01 16:34:26 +0000"
     },
     "done": true
   },

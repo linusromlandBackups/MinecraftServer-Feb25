@@ -941,6 +941,7 @@
       "minecraft:pillager": "2025-02-23 18:43:56 +0000",
       "minecraft:cave_spider": "2025-03-01 16:08:42 +0000",
       "minecraft:skeleton": "2025-02-22 17:29:25 +0000",
+      "minecraft:breeze": "2025-03-01 16:27:58 +0000",
       "minecraft:enderman": "2025-02-21 19:37:25 +0000",
       "minecraft:magma_cube": "2025-02-23 18:03:00 +0000",
       "minecraft:witch": "2025-02-24 18:36:30 +0000",
@@ -3443,9 +3444,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-01 16:28:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-03-01 16:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-01 16:27:59 +0000"
     },
     "done": true
   },
@@ -3539,6 +3552,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-03-01 16:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-01 16:10:36 +0000"
@@ -3614,6 +3633,12 @@
   "minecraft:recipes/building_blocks/tuff_bricks": {
     "criteria": {
       "has_polished_tuff": "2025-03-01 16:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-03-01 16:27:59 +0000"
     },
     "done": true
   },
