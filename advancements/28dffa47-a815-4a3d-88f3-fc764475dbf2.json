@@ -3746,6 +3746,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 09:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 09:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-03-02 09:18:28 +0000"
@@ -3758,15 +3770,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "has_glowstone_dust": "2025-03-02 09:18:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-02 09:18:24 +0000"
+      "killed_ghast": "2025-03-02 09:29:54 +0000"
     },
     "done": true
   },
