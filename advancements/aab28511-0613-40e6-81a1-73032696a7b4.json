@@ -489,6 +489,7 @@
       "apple": "2025-02-23 19:14:24 +0000",
       "bread": "2025-02-21 19:16:40 +0000",
       "golden_apple": "2025-03-01 16:39:40 +0000",
+      "cooked_chicken": "2025-03-02 08:18:50 +0000",
       "salmon": "2025-02-21 19:14:14 +0000",
       "cooked_beef": "2025-02-24 18:44:23 +0000",
       "cooked_salmon": "2025-02-24 18:21:55 +0000"
@@ -2929,6 +2930,24 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-03-01 16:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-02 08:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-02 08:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-02 08:17:19 +0000"
     },
     "done": true
   },
