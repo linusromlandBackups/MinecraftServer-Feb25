@@ -939,17 +939,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-23 18:43:56 +0000",
-      "minecraft:cave_spider": "2025-03-01 16:08:42 +0000",
       "minecraft:skeleton": "2025-02-22 17:29:25 +0000",
+      "minecraft:witch": "2025-02-24 18:36:30 +0000",
+      "minecraft:bogged": "2025-03-01 16:19:22 +0000",
+      "minecraft:ghast": "2025-03-02 09:17:08 +0000",
+      "minecraft:cave_spider": "2025-03-01 16:08:42 +0000",
       "minecraft:breeze": "2025-03-01 16:27:58 +0000",
       "minecraft:enderman": "2025-02-21 19:37:25 +0000",
       "minecraft:magma_cube": "2025-02-23 18:03:00 +0000",
-      "minecraft:witch": "2025-02-24 18:36:30 +0000",
       "minecraft:spider": "2025-02-21 19:38:31 +0000",
       "minecraft:zombie": "2025-02-21 19:31:27 +0000",
       "minecraft:creeper": "2025-02-22 18:17:31 +0000",
-      "minecraft:drowned": "2025-02-28 14:42:58 +0000",
-      "minecraft:bogged": "2025-03-01 16:19:22 +0000"
+      "minecraft:drowned": "2025-02-28 14:42:58 +0000"
     },
     "done": false
   },
@@ -3742,6 +3743,30 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-03-01 16:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-02 09:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-03-02 09:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 09:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-02 09:18:24 +0000"
     },
     "done": true
   },
