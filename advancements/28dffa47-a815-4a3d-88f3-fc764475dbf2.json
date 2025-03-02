@@ -3782,15 +3782,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-03-02 10:21:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-03-02 10:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-02 10:21:31 +0000"
     },
     "done": true
   },
