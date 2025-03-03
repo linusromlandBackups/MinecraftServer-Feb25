@@ -3867,5 +3867,17 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-03 18:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-03 18:47:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

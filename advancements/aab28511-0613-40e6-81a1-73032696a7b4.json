@@ -644,6 +644,7 @@
       "minecraft:piglin": "2025-03-03 18:26:47 +0000",
       "minecraft:magma_cube": "2025-03-03 18:38:39 +0000",
       "minecraft:spider": "2025-02-21 19:22:31 +0000",
+      "minecraft:wither_skeleton": "2025-03-03 18:50:16 +0000",
       "minecraft:zombie": "2025-02-21 19:37:56 +0000",
       "minecraft:creeper": "2025-02-22 18:18:42 +0000",
       "minecraft:drowned": "2025-02-22 18:44:45 +0000",
@@ -3050,6 +3051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-03 18:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 18:43:11 +0000"
@@ -3083,6 +3090,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 18:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-03 18:58:50 +0000"
     },
     "done": true
   },
