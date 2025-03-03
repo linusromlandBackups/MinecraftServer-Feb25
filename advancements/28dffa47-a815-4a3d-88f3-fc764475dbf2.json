@@ -940,8 +940,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-23 18:43:56 +0000",
+      "minecraft:blaze": "2025-03-03 18:37:52 +0000",
       "minecraft:skeleton": "2025-02-22 17:29:25 +0000",
       "minecraft:witch": "2025-02-24 18:36:30 +0000",
+      "minecraft:wither_skeleton": "2025-03-03 18:39:01 +0000",
       "minecraft:bogged": "2025-03-01 16:19:22 +0000",
       "minecraft:ghast": "2025-03-02 09:17:08 +0000",
       "minecraft:hoglin": "2025-03-03 18:28:20 +0000",
@@ -3826,6 +3828,42 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-03-03 18:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-03 18:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 18:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 18:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-03 18:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-03 18:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-03 18:40:06 +0000"
     },
     "done": true
   },

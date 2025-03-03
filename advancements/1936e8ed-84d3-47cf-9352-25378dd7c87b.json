@@ -628,14 +628,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-24 19:38:06 +0000",
+      "minecraft:blaze": "2025-03-03 18:37:26 +0000",
       "minecraft:skeleton": "2025-02-21 19:16:56 +0000",
+      "minecraft:zombified_piglin": "2025-03-03 18:43:57 +0000",
       "minecraft:witch": "2025-02-23 15:58:39 +0000",
+      "minecraft:wither_skeleton": "2025-03-03 18:39:47 +0000",
       "minecraft:bogged": "2025-03-01 16:12:05 +0000",
       "minecraft:ghast": "2025-02-26 19:57:31 +0000",
+      "minecraft:hoglin": "2025-03-03 18:32:08 +0000",
       "minecraft:cave_spider": "2025-02-26 17:48:51 +0000",
       "minecraft:piglin": "2025-03-03 18:26:37 +0000",
       "minecraft:breeze": "2025-03-01 16:14:00 +0000",
       "minecraft:enderman": "2025-02-21 19:13:50 +0000",
+      "minecraft:magma_cube": "2025-03-03 18:38:23 +0000",
       "minecraft:spider": "2025-02-22 18:31:33 +0000",
       "minecraft:zombie": "2025-02-22 18:12:23 +0000",
       "minecraft:creeper": "2025-02-22 18:19:50 +0000",
@@ -3872,15 +3877,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-03 18:38:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-03-03 18:28:41 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-03 18:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-03-03 18:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 18:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-03 18:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 18:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-03 18:31:24 +0000"
     },
     "done": true
   },
