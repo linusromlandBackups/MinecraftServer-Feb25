@@ -944,7 +944,9 @@
       "minecraft:witch": "2025-02-24 18:36:30 +0000",
       "minecraft:bogged": "2025-03-01 16:19:22 +0000",
       "minecraft:ghast": "2025-03-02 09:17:08 +0000",
+      "minecraft:hoglin": "2025-03-03 18:28:20 +0000",
       "minecraft:cave_spider": "2025-03-01 16:08:42 +0000",
+      "minecraft:piglin": "2025-03-03 18:25:53 +0000",
       "minecraft:breeze": "2025-03-01 16:27:58 +0000",
       "minecraft:enderman": "2025-02-21 19:37:25 +0000",
       "minecraft:magma_cube": "2025-02-23 18:03:00 +0000",
@@ -2218,7 +2220,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-03 18:28:10 +0000",
       "minecraft:soul_sand_valley": "2025-02-23 15:36:29 +0000",
+      "minecraft:nether_wastes": "2025-03-03 18:25:28 +0000",
       "minecraft:basalt_deltas": "2025-02-23 18:03:04 +0000"
     },
     "done": false
@@ -3804,6 +3808,24 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-02 14:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-03-03 18:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-03 18:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-03 18:28:48 +0000"
     },
     "done": true
   },
