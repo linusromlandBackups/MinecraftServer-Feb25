@@ -494,7 +494,8 @@
       "cooked_beef": "2025-02-24 18:44:23 +0000",
       "baked_potato": "2025-03-02 08:43:08 +0000",
       "cooked_salmon": "2025-02-24 18:21:55 +0000",
-      "pumpkin_pie": "2025-03-02 14:37:33 +0000"
+      "pumpkin_pie": "2025-03-02 14:37:33 +0000",
+      "carrot": "2025-03-07 20:15:22 +0000"
     },
     "done": false
   },
@@ -3150,6 +3151,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-03-07 20:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-07 20:15:20 +0000"
     },
     "done": true
   },
