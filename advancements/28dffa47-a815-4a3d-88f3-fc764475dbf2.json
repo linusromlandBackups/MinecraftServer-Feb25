@@ -20,6 +20,7 @@
       "minecraft:dripstone_caves": "2025-02-26 17:41:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 18:21:16 +0000",
       "minecraft:birch_forest": "2025-02-23 10:11:49 +0000",
+      "minecraft:windswept_hills": "2025-03-07 19:48:46 +0000",
       "minecraft:savanna": "2025-02-21 18:57:16 +0000",
       "minecraft:windswept_savanna": "2025-02-21 19:24:11 +0000",
       "minecraft:plains": "2025-02-21 19:19:56 +0000"
@@ -3878,6 +3879,55 @@
       "has_wither_skeleton_skull": "2025-03-03 18:47:26 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-07 19:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-07 19:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-07 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-07 19:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-07 19:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-07 19:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-07 19:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-03-07 19:53:18 +0000",
+      "minecraft:jellie": "2025-03-07 19:52:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }
