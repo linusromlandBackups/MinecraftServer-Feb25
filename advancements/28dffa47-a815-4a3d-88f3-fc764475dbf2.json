@@ -3929,5 +3929,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-03-08 17:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-08 17:28:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
