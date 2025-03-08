@@ -770,6 +770,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-23 15:35:13 +0000",
+      "minecraft:piglin": "2025-03-08 10:59:13 +0000",
       "minecraft:enderman": "2025-02-26 18:37:42 +0000",
       "minecraft:spider": "2025-02-23 15:24:49 +0000",
       "minecraft:zombie": "2025-02-24 17:10:09 +0000",
@@ -2175,6 +2176,18 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-08 10:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-08 11:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-08 11:03:15 +0000"
     },
     "done": true
   },
