@@ -3263,9 +3263,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/combat/stone_spear": {
     "criteria": {
-      "has_smooth_stone": "2026-08-28 19:50:04 +0000"
+      "has_cobblestone": "2026-08-28 17:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2026-08-28 17:54:07 +0000"
     },
     "done": true
   },
@@ -3293,39 +3299,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2026-08-28 19:50:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/saddle": {
-    "criteria": {
-      "has_leather": "2026-08-28 17:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2026-08-28 19:50:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2026-08-28 19:45:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_spear": {
+  "minecraft:recipes/building_blocks/cobblestone_from_stone_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2026-08-28 17:51:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2026-08-28 19:50:09 +0000"
+      "has_stone": "2026-08-28 19:45:03 +0000"
     },
     "done": true
   },
@@ -3335,9 +3317,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_from_stone_stonecutting": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_stone": "2026-08-28 19:45:03 +0000"
+      "has_smooth_stone": "2026-08-28 19:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-08-28 19:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-08-28 19:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-08-28 19:50:09 +0000"
     },
     "done": true
   },
