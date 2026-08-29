@@ -4582,5 +4582,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/name_tag": {
+    "criteria": {
+      "has_metal_nugget": "2026-08-29 13:04:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
