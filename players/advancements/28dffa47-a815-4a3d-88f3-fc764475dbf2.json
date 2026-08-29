@@ -4576,5 +4576,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-08-29 09:38:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
