@@ -644,6 +644,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-03 18:42:04 +0000",
+      "minecraft:pillager": "2026-08-29 17:57:32 +0000",
       "minecraft:skeleton": "2025-02-21 19:21:38 +0000",
       "minecraft:parched": "2026-08-28 19:01:36 +0000",
       "minecraft:wither_skeleton": "2025-03-03 18:50:16 +0000",
@@ -653,6 +654,7 @@
       "minecraft:camel_husk": "2026-08-28 19:01:29 +0000",
       "minecraft:cave_spider": "2025-03-01 16:08:42 +0000",
       "minecraft:piglin": "2025-03-03 18:26:47 +0000",
+      "minecraft:enderman": "2026-08-29 20:10:19 +0000",
       "minecraft:magma_cube": "2025-03-03 18:38:39 +0000",
       "minecraft:spider": "2025-02-21 19:22:31 +0000",
       "minecraft:zombie": "2025-02-21 19:37:56 +0000",
@@ -3434,6 +3436,72 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2026-08-28 21:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2026-08-29 16:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2026-08-29 16:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2026-08-29 16:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-08-29 16:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-08-29 20:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2026-08-29 20:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_shelf": {
+    "criteria": {
+      "has_stripped_bamboo_block": "2026-08-29 20:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-08-29 20:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-08-29 20:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-08-29 20:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_log": "2026-08-29 20:38:41 +0000"
     },
     "done": true
   },
