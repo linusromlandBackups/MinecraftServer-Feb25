@@ -4638,6 +4638,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2026-08-29 19:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-08-29 20:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_honeycomb": {
+    "criteria": {
+      "has_copper_grate": "2026-08-29 20:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2026-08-29 20:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_nugget_from_smelting": {
     "criteria": {
       "has_copper_horse_armor": "2026-08-29 20:24:58 +0000"
@@ -4650,39 +4674,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2026-08-29 19:21:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/wax_on": {
-    "criteria": {
-      "wax_on": "2026-08-29 20:18:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/bamboo_shelf": {
     "criteria": {
       "has_stripped_bamboo_block": "2026-08-29 20:39:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_honeycomb": {
-    "criteria": {
-      "has_copper_grate": "2026-08-29 20:18:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/bamboo_hanging_sign": {
     "criteria": {
       "has_stripped_log": "2026-08-29 20:39:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2026-08-29 20:00:10 +0000"
     },
     "done": true
   },
