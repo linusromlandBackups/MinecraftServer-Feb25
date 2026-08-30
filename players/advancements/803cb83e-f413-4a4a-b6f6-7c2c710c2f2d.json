@@ -2330,9 +2330,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2026-08-30 09:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-08-30 09:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_spear": {
     "criteria": {
       "has_cobblestone": "2026-08-30 08:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-08-30 09:05:30 +0000"
     },
     "done": true
   },
