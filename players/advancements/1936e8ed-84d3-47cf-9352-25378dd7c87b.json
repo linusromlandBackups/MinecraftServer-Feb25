@@ -4686,15 +4686,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2026-08-30 09:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/saddle": {
     "criteria": {
       "has_leather": "2026-08-30 10:15:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
+  "minecraft:adventure/spear_many_mobs": {
     "criteria": {
-      "has_bamboo_slab": "2026-08-30 09:05:25 +0000"
+      "spear_many_mobs": "2026-08-30 16:36:06 +0000"
     },
     "done": true
   },
