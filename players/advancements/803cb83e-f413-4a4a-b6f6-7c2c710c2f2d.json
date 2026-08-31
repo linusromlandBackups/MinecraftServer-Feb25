@@ -7,15 +7,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-02-23 12:05:58 +0000",
       "minecraft:beach": "2025-02-21 19:01:58 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-26 17:41:38 +0000",
       "minecraft:dark_forest": "2025-02-26 17:41:37 +0000",
       "minecraft:forest": "2025-02-23 12:05:03 +0000",
       "minecraft:taiga": "2025-02-23 12:07:17 +0000",
+      "minecraft:sparse_jungle": "2026-08-31 18:27:11 +0000",
       "minecraft:river": "2025-02-22 17:39:30 +0000",
-      "minecraft:birch_forest": "2025-02-23 12:06:48 +0000",
       "minecraft:lush_caves": "2025-02-26 19:52:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-23 12:05:58 +0000",
+      "minecraft:birch_forest": "2025-02-23 12:06:48 +0000",
+      "minecraft:windswept_hills": "2026-08-31 18:23:32 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-01 10:51:52 +0000",
       "minecraft:savanna": "2025-02-21 19:02:06 +0000",
       "minecraft:plains": "2025-02-22 17:41:06 +0000"
@@ -535,6 +537,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-02-24 17:36:35 +0000",
+      "spider_eye": "2026-08-31 17:39:12 +0000",
       "bread": "2025-02-22 17:43:28 +0000",
       "cooked_chicken": "2025-03-01 12:49:11 +0000",
       "rotten_flesh": "2025-03-08 17:28:22 +0000",
@@ -779,6 +782,7 @@
       "minecraft:skeleton": "2025-02-23 15:35:13 +0000",
       "minecraft:piglin": "2025-03-08 10:59:13 +0000",
       "minecraft:enderman": "2025-02-26 18:37:42 +0000",
+      "minecraft:witch": "2026-08-31 17:29:50 +0000",
       "minecraft:spider": "2025-02-23 15:24:49 +0000",
       "minecraft:zombie": "2025-02-24 17:10:09 +0000",
       "minecraft:creeper": "2025-02-26 19:23:40 +0000",
@@ -2570,6 +2574,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2026-08-30 16:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-08-30 16:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-08-30 16:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2026-08-30 16:41:51 +0000"
@@ -2582,21 +2604,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2026-08-30 16:36:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2026-08-30 16:41:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/spear_many_mobs": {
-    "criteria": {
-      "spear_many_mobs": "2026-08-30 16:48:45 +0000"
     },
     "done": true
   },
@@ -2624,27 +2634,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2026-08-30 16:41:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2026-08-30 16:41:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2026-08-30 16:41:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2026-08-30 16:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spear_many_mobs": {
+    "criteria": {
+      "spear_many_mobs": "2026-08-30 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2026-08-31 17:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_chain": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_sword": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_boots": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2026-08-31 17:49:32 +0000"
     },
     "done": true
   },

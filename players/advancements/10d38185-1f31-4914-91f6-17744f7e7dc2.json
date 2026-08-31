@@ -8,20 +8,32 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-08-30 09:53:38 +0000",
-      "minecraft:flower_forest": "2026-08-30 09:38:45 +0000",
-      "minecraft:beach": "2026-08-29 08:56:23 +0000",
+      "minecraft:snowy_slopes": "2026-08-31 17:42:45 +0000",
       "minecraft:old_growth_pine_taiga": "2026-08-29 10:14:32 +0000",
-      "minecraft:dark_forest": "2026-08-29 10:10:53 +0000",
       "minecraft:forest": "2026-08-29 09:29:03 +0000",
       "minecraft:taiga": "2026-08-29 09:50:00 +0000",
-      "minecraft:river": "2026-08-29 08:57:56 +0000",
       "minecraft:lush_caves": "2026-08-29 10:07:01 +0000",
-      "minecraft:old_growth_birch_forest": "2026-08-29 09:29:36 +0000",
+      "minecraft:frozen_ocean": "2026-08-31 17:31:44 +0000",
+      "minecraft:frozen_river": "2026-08-31 17:38:44 +0000",
+      "minecraft:ocean": "2026-08-31 17:59:57 +0000",
       "minecraft:sunflower_plains": "2026-08-30 09:38:23 +0000",
+      "minecraft:cherry_grove": "2026-08-31 17:40:19 +0000",
       "minecraft:birch_forest": "2026-08-29 09:35:27 +0000",
       "minecraft:windswept_hills": "2026-08-29 20:01:33 +0000",
-      "minecraft:savanna": "2026-08-29 08:56:47 +0000",
+      "minecraft:snowy_beach": "2026-08-31 17:33:32 +0000",
       "minecraft:windswept_savanna": "2026-08-29 19:47:30 +0000",
+      "minecraft:flower_forest": "2026-08-30 09:38:45 +0000",
+      "minecraft:beach": "2026-08-29 08:56:23 +0000",
+      "minecraft:dark_forest": "2026-08-29 10:10:53 +0000",
+      "minecraft:river": "2026-08-29 08:57:56 +0000",
+      "minecraft:lukewarm_ocean": "2026-08-31 17:55:56 +0000",
+      "minecraft:snowy_plains": "2026-08-31 17:38:47 +0000",
+      "minecraft:stony_shore": "2026-08-31 17:57:21 +0000",
+      "minecraft:snowy_taiga": "2026-08-31 17:33:39 +0000",
+      "minecraft:old_growth_birch_forest": "2026-08-29 09:29:36 +0000",
+      "minecraft:grove": "2026-08-31 17:46:33 +0000",
+      "minecraft:meadow": "2026-08-31 17:41:19 +0000",
+      "minecraft:savanna": "2026-08-29 08:56:47 +0000",
       "minecraft:plains": "2026-08-29 09:27:27 +0000"
     },
     "done": false
@@ -1632,12 +1644,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2026-08-31 08:59:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2026-08-31 08:59:03 +0000"
@@ -1656,12 +1662,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wolf_armor": {
-    "criteria": {
-      "has_armadillo_scute": "2026-08-31 09:17:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2026-08-31 08:59:03 +0000"
@@ -1677,6 +1677,210 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2026-08-31 08:59:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-08-31 08:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2026-08-31 09:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-08-31 17:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-08-31 17:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-08-31 17:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2026-08-31 17:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-08-31 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2026-08-31 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2026-08-31 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2026-08-31 17:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2026-08-31 17:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2026-08-31 17:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-08-31 18:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-08-31 18:56:55 +0000"
     },
     "done": true
   },
