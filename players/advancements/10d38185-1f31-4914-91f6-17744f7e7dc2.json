@@ -1884,12 +1884,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2026-09-02 15:14:59 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2026-09-02 15:14:58 +0000"
@@ -1901,6 +1895,12 @@
       "entered_nether": "2026-09-02 15:14:58 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-09-02 15:14:59 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4903
 }
