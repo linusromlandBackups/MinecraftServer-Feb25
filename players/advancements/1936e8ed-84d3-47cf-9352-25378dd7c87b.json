@@ -4922,6 +4922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_chest_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_chest": "2026-09-06 12:39:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2026-09-06 11:50:50 +0000"
@@ -4979,6 +4985,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2026-09-06 11:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2026-09-06 12:37:36 +0000"
     },
     "done": true
   },
