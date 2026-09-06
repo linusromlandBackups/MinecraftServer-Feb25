@@ -2736,5 +2736,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2026-09-06 16:55:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
