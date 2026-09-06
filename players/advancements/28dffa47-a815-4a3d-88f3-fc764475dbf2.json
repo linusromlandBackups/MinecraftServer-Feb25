@@ -958,6 +958,7 @@
       "minecraft:magma_cube": "2025-02-23 18:03:00 +0000",
       "minecraft:endermite": "2026-08-28 19:49:11 +0000",
       "minecraft:spider": "2025-02-21 19:38:31 +0000",
+      "minecraft:piglin_brute": "2026-09-06 11:11:16 +0000",
       "minecraft:zombie": "2025-02-21 19:31:27 +0000",
       "minecraft:creeper": "2025-02-22 18:17:31 +0000",
       "minecraft:drowned": "2025-02-28 14:42:58 +0000",
@@ -2225,9 +2226,10 @@
       "minecraft:crimson_forest": "2025-03-03 18:28:10 +0000",
       "minecraft:soul_sand_valley": "2025-02-23 15:36:29 +0000",
       "minecraft:nether_wastes": "2025-03-03 18:25:28 +0000",
-      "minecraft:basalt_deltas": "2025-02-23 18:03:04 +0000"
+      "minecraft:basalt_deltas": "2025-02-23 18:03:04 +0000",
+      "minecraft:warped_forest": "2026-09-06 10:58:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
@@ -4837,6 +4839,102 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2026-08-30 12:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-09-06 11:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-09-06 11:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-09-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2026-09-06 11:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-09-06 11:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-09-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-09-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-09-06 11:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-09-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-09-06 11:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-09-06 11:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-09-06 11:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2026-09-06 11:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-09-06 11:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-09-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-09-06 11:52:49 +0000"
     },
     "done": true
   },
