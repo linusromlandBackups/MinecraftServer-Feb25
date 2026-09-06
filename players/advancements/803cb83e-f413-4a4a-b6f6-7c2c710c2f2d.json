@@ -540,6 +540,7 @@
       "spider_eye": "2026-08-31 17:39:12 +0000",
       "bread": "2025-02-22 17:43:28 +0000",
       "cooked_chicken": "2025-03-01 12:49:11 +0000",
+      "honey_bottle": "2026-09-06 17:34:39 +0000",
       "rotten_flesh": "2025-03-08 17:28:22 +0000",
       "cooked_mutton": "2025-02-23 16:50:38 +0000",
       "mushroom_stew": "2025-02-28 14:15:11 +0000",
@@ -2739,6 +2740,42 @@
   "minecraft:recipes/combat/saddle": {
     "criteria": {
       "has_leather": "2026-09-06 16:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2026-09-06 17:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper": {
+    "criteria": {
+      "has_slab": "2026-09-06 17:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_smelting": {
+    "criteria": {
+      "has_copper_boots": "2026-09-06 17:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_nugget_from_blasting": {
+    "criteria": {
+      "has_copper_boots": "2026-09-06 17:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-09-06 17:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-09-06 17:34:31 +0000"
     },
     "done": true
   },
