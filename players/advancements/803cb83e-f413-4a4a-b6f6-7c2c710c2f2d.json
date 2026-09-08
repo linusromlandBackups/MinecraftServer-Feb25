@@ -2834,12 +2834,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/golden_dandelion": {
-    "criteria": {
-      "has_dandelion": "2026-09-07 17:26:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2026-09-07 17:13:34 +0000"
@@ -2879,6 +2873,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2026-09-07 17:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/golden_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-09-07 17:26:17 +0000"
     },
     "done": true
   },
