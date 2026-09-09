@@ -2882,5 +2882,17 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2026-09-09 17:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2026-09-09 17:12:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
