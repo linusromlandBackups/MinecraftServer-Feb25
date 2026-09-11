@@ -15,10 +15,13 @@
       "minecraft:frozen_ocean": "2026-09-11 19:40:12 +0000",
       "minecraft:eroded_badlands": "2026-08-28 19:05:17 +0000",
       "minecraft:desert": "2026-08-28 18:02:27 +0000",
+      "minecraft:frozen_river": "2026-09-11 20:09:54 +0000",
       "minecraft:jungle": "2026-08-28 17:52:48 +0000",
       "minecraft:ocean": "2026-09-11 19:00:50 +0000",
       "minecraft:birch_forest": "2025-02-23 10:11:49 +0000",
       "minecraft:windswept_hills": "2025-03-07 19:48:46 +0000",
+      "minecraft:old_growth_spruce_taiga": "2026-09-11 20:07:20 +0000",
+      "minecraft:snowy_beach": "2026-09-11 20:42:45 +0000",
       "minecraft:wooded_badlands": "2026-08-28 18:07:35 +0000",
       "minecraft:bamboo_jungle": "2026-08-28 18:00:01 +0000",
       "minecraft:windswept_savanna": "2025-02-21 19:24:11 +0000",
@@ -33,6 +36,7 @@
       "minecraft:dripstone_caves": "2025-02-26 17:41:02 +0000",
       "minecraft:snowy_taiga": "2026-09-11 19:40:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 18:21:16 +0000",
+      "minecraft:grove": "2026-09-11 20:15:23 +0000",
       "minecraft:savanna": "2025-02-21 18:57:16 +0000",
       "minecraft:plains": "2025-02-21 19:19:56 +0000"
     },
@@ -961,6 +965,7 @@
       "minecraft:piglin": "2025-03-03 18:25:53 +0000",
       "minecraft:breeze": "2025-03-01 16:27:58 +0000",
       "minecraft:enderman": "2025-02-21 19:37:25 +0000",
+      "minecraft:silverfish": "2026-09-11 20:25:20 +0000",
       "minecraft:magma_cube": "2025-02-23 18:03:00 +0000",
       "minecraft:endermite": "2026-08-28 19:49:11 +0000",
       "minecraft:spider": "2025-02-21 19:38:31 +0000",
@@ -5106,12 +5111,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2026-09-11 19:40:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_copper_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2026-09-11 19:10:02 +0000"
@@ -5133,6 +5132,114 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2026-09-11 19:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-09-11 19:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_pink_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-09-11 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-09-11 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-09-11 20:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-09-11 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
     },
     "done": true
   },
