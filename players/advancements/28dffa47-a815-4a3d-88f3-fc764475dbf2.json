@@ -7,29 +7,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2026-08-28 18:07:17 +0000",
       "minecraft:cold_ocean": "2025-02-22 18:31:36 +0000",
-      "minecraft:beach": "2025-02-21 18:55:47 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-22 18:27:59 +0000",
-      "minecraft:dark_forest": "2025-02-22 18:27:55 +0000",
       "minecraft:forest": "2025-02-21 19:15:03 +0000",
       "minecraft:taiga": "2025-02-23 10:12:30 +0000",
+      "minecraft:lush_caves": "2025-02-22 18:27:21 +0000",
+      "minecraft:frozen_ocean": "2026-09-11 19:40:12 +0000",
+      "minecraft:eroded_badlands": "2026-08-28 19:05:17 +0000",
+      "minecraft:desert": "2026-08-28 18:02:27 +0000",
+      "minecraft:jungle": "2026-08-28 17:52:48 +0000",
+      "minecraft:ocean": "2026-09-11 19:00:50 +0000",
+      "minecraft:birch_forest": "2025-02-23 10:11:49 +0000",
+      "minecraft:windswept_hills": "2025-03-07 19:48:46 +0000",
+      "minecraft:wooded_badlands": "2026-08-28 18:07:35 +0000",
+      "minecraft:bamboo_jungle": "2026-08-28 18:00:01 +0000",
+      "minecraft:windswept_savanna": "2025-02-21 19:24:11 +0000",
+      "minecraft:badlands": "2026-08-28 18:07:17 +0000",
+      "minecraft:beach": "2025-02-21 18:55:47 +0000",
+      "minecraft:dark_forest": "2025-02-22 18:27:55 +0000",
       "minecraft:mangrove_swamp": "2026-08-28 18:02:46 +0000",
       "minecraft:sparse_jungle": "2025-02-23 10:02:52 +0000",
       "minecraft:river": "2025-02-21 19:06:07 +0000",
       "minecraft:stony_shore": "2025-02-22 18:30:48 +0000",
-      "minecraft:lush_caves": "2025-02-22 18:27:21 +0000",
+      "minecraft:snowy_plains": "2026-09-11 19:41:29 +0000",
       "minecraft:dripstone_caves": "2025-02-26 17:41:02 +0000",
+      "minecraft:snowy_taiga": "2026-09-11 19:40:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 18:21:16 +0000",
-      "minecraft:eroded_badlands": "2026-08-28 19:05:17 +0000",
-      "minecraft:desert": "2026-08-28 18:02:27 +0000",
-      "minecraft:jungle": "2026-08-28 17:52:48 +0000",
-      "minecraft:birch_forest": "2025-02-23 10:11:49 +0000",
-      "minecraft:windswept_hills": "2025-03-07 19:48:46 +0000",
       "minecraft:savanna": "2025-02-21 18:57:16 +0000",
-      "minecraft:wooded_badlands": "2026-08-28 18:07:35 +0000",
-      "minecraft:bamboo_jungle": "2026-08-28 18:00:01 +0000",
-      "minecraft:windswept_savanna": "2025-02-21 19:24:11 +0000",
       "minecraft:plains": "2025-02-21 19:19:56 +0000"
     },
     "done": false
@@ -5087,6 +5091,48 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_honeycomb": {
     "criteria": {
       "has_oxidized_copper_grate": "2026-09-09 16:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2026-09-11 19:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2026-09-11 19:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-09-11 19:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2026-09-11 19:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2026-09-11 19:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2026-09-11 19:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2026-09-11 19:10:02 +0000"
     },
     "done": true
   },

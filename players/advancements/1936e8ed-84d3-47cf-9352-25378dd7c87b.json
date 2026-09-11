@@ -13,6 +13,7 @@
       "minecraft:taiga": "2025-02-22 18:24:29 +0000",
       "minecraft:deep_ocean": "2025-03-03 19:47:31 +0000",
       "minecraft:lush_caves": "2025-02-23 15:59:35 +0000",
+      "minecraft:frozen_ocean": "2026-09-11 19:40:14 +0000",
       "minecraft:eroded_badlands": "2026-08-28 19:05:15 +0000",
       "minecraft:desert": "2026-08-28 18:02:32 +0000",
       "minecraft:ocean": "2025-02-23 17:18:30 +0000",
@@ -29,7 +30,9 @@
       "minecraft:mangrove_swamp": "2026-08-28 18:02:36 +0000",
       "minecraft:sparse_jungle": "2026-08-28 17:55:45 +0000",
       "minecraft:river": "2025-02-21 19:10:16 +0000",
+      "minecraft:stony_shore": "2026-09-11 19:01:45 +0000",
       "minecraft:dripstone_caves": "2025-02-23 19:22:57 +0000",
+      "minecraft:snowy_taiga": "2026-09-11 19:40:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 18:15:18 +0000",
       "minecraft:savanna": "2025-02-21 19:01:55 +0000",
       "minecraft:plains": "2025-02-21 19:11:00 +0000"
@@ -5208,6 +5211,18 @@
   "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
     "criteria": {
       "has_wildflowers": "2026-09-07 18:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-09-11 19:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor_dyed": {
+    "criteria": {
+      "has_leather_horse_armor": "2026-09-11 19:52:50 +0000"
     },
     "done": true
   },
