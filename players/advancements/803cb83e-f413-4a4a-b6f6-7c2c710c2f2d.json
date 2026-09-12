@@ -563,6 +563,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:chicken": "2025-03-01 17:51:13 +0000",
+      "minecraft:horse": "2026-09-12 14:41:03 +0000",
       "minecraft:sheep": "2025-02-22 17:47:16 +0000"
     },
     "done": false
@@ -3444,6 +3445,30 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2026-09-12 09:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-09-12 14:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-09-12 14:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-09-12 14:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/name_tag": {
+    "criteria": {
+      "has_metal_nugget": "2026-09-12 14:39:17 +0000"
     },
     "done": true
   },
