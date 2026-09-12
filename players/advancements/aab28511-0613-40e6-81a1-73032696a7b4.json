@@ -13,13 +13,16 @@
       "minecraft:taiga": "2025-02-23 10:12:29 +0000",
       "minecraft:deep_ocean": "2025-02-22 18:49:17 +0000",
       "minecraft:lush_caves": "2025-02-24 18:37:59 +0000",
+      "minecraft:frozen_ocean": "2026-09-12 09:13:46 +0000",
       "minecraft:eroded_badlands": "2025-02-22 18:22:41 +0000",
       "minecraft:desert": "2025-02-21 19:16:59 +0000",
+      "minecraft:frozen_river": "2026-09-12 10:44:58 +0000",
       "minecraft:jungle": "2025-02-21 19:17:50 +0000",
       "minecraft:ocean": "2025-02-22 17:58:50 +0000",
       "minecraft:sunflower_plains": "2026-08-30 09:38:23 +0000",
       "minecraft:birch_forest": "2025-02-22 18:47:19 +0000",
       "minecraft:windswept_hills": "2026-08-28 17:46:21 +0000",
+      "minecraft:old_growth_spruce_taiga": "2026-09-12 08:50:50 +0000",
       "minecraft:wooded_badlands": "2026-08-28 18:07:33 +0000",
       "minecraft:bamboo_jungle": "2026-08-28 17:59:54 +0000",
       "minecraft:windswept_savanna": "2025-02-21 19:28:22 +0000",
@@ -34,6 +37,7 @@
       "minecraft:lukewarm_ocean": "2025-02-22 17:58:53 +0000",
       "minecraft:stony_shore": "2025-02-22 18:46:39 +0000",
       "minecraft:dripstone_caves": "2025-02-21 19:18:34 +0000",
+      "minecraft:snowy_taiga": "2026-09-12 09:21:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 18:46:23 +0000",
       "minecraft:savanna": "2025-02-21 19:01:59 +0000",
       "minecraft:plains": "2025-02-21 19:25:50 +0000"
@@ -3828,57 +3832,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_the_recipe": "2026-09-09 16:41:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2026-09-09 16:37:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2026-09-09 17:13:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2026-09-09 16:29:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leaf_litter": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
-      "has_leaves": "2026-09-09 16:47:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
+      "has_red_dye": "2026-09-09 16:37:43 +0000"
     },
     "done": true
   },
@@ -3924,12 +3886,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2026-09-09 16:37:43 +0000"
@@ -3948,9 +3904,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2026-09-09 16:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-09-09 16:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-09-09 17:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2026-09-09 17:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-09-09 17:41:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2026-09-12 09:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2026-09-12 09:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-09-12 09:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-09-12 09:26:51 +0000"
     },
     "done": true
   },

@@ -5243,5 +5243,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:ashen": "2026-09-12 10:02:49 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 4903
 }
