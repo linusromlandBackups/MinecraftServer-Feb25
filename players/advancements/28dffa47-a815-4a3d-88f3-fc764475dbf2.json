@@ -5141,33 +5141,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_pink_harness": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "has_needed_dye": "2026-09-11 21:21:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2026-09-11 20:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2026-09-11 21:21:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-09-11 21:21:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2026-09-11 21:21:52 +0000"
+      "in_stronghold": "2026-09-11 20:23:39 +0000"
     },
     "done": true
   },
@@ -5189,12 +5165,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/pink_bundle": {
-    "criteria": {
-      "has_pink_dye": "2026-09-11 21:21:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_bricks_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
@@ -5207,9 +5177,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_pink_carpet": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_bricks_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-09-11 20:40:21 +0000"
     },
     "done": true
   },
@@ -5219,27 +5195,51 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2026-09-11 20:23:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-09-11 21:21:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2026-09-11 20:40:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_bricks_stonecutting": {
+  "minecraft:recipes/combat/dye_pink_harness": {
     "criteria": {
-      "has_mossy_stone_bricks": "2026-09-11 20:28:15 +0000"
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pink_bundle": {
+    "criteria": {
+      "has_pink_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-11 21:21:52 +0000"
     },
     "done": true
   },
