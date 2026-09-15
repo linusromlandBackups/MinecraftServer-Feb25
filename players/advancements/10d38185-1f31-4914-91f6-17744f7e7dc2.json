@@ -141,6 +141,7 @@
       "cooked_porkchop": "2026-09-06 11:30:28 +0000",
       "apple": "2026-08-29 20:08:20 +0000",
       "bread": "2026-08-29 20:06:58 +0000",
+      "cooked_rabbit": "2026-09-15 12:27:54 +0000",
       "cooked_chicken": "2026-08-29 09:31:27 +0000",
       "honey_bottle": "2026-09-06 17:34:53 +0000",
       "rotten_flesh": "2026-09-06 18:13:39 +0000",
@@ -225,6 +226,7 @@
       "minecraft:zombie_horse": "2026-08-29 20:08:00 +0000",
       "minecraft:zombified_piglin": "2026-09-06 10:56:15 +0000",
       "minecraft:enderman": "2026-09-07 18:56:41 +0000",
+      "minecraft:stray": "2026-09-15 12:14:04 +0000",
       "minecraft:endermite": "2026-09-06 11:28:46 +0000",
       "minecraft:spider": "2026-08-29 17:40:26 +0000",
       "minecraft:zombie": "2026-08-29 09:56:55 +0000",
@@ -3905,6 +3907,66 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2026-09-15 11:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-09-15 12:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2026-09-15 12:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2026-09-15 12:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-09-15 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-09-15 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2026-09-15 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:ashen": "2026-09-15 12:15:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-09-15 12:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2026-09-15 12:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2026-09-15 12:24:40 +0000"
     },
     "done": true
   },
