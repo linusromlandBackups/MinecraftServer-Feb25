@@ -3970,6 +3970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2026-09-15 14:32:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/dye_black_harness": {
     "criteria": {
       "has_needed_dye": "2026-09-15 14:37:19 +0000"
@@ -3985,12 +3991,6 @@
   "minecraft:recipes/tools/black_bundle": {
     "criteria": {
       "has_black_dye": "2026-09-15 14:37:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2026-09-15 14:32:17 +0000"
     },
     "done": true
   },
